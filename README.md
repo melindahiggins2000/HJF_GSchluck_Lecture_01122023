@@ -22,12 +22,19 @@
 
 # Slides and Materials:
 
-* Part 1: [Intro to R and RStudio]()
-* Part 2: [Working with R Packages]()
-* Part 3: [Intro to Visualizations with `ggplot2`]()
-* Part 4: The Utility of Rmarkdown [Abalone Report and Slides]()
-    - [Rmarkdown file with codes]()
-    - [abalone dataset - CSV format]()
+* Part 1: [Intro to R and RStudio](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/HJF_Rworkshop_12Jan2023_pt1.html)
+* Part 2: [Working with R Packages](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/HJF_Rworkshop_12Jan2023_pt2.html)
+* Part 3: [Intro to Visualizations with `ggplot2`](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/HJF_Rworkshop_12Jan2023_pt3.html)
+* Part 4: The Utility of Rmarkdown - Report and Slides - 1 file:
+    - [Rmarkdown file with codes](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/AbaloneReport_v1.Rmd)
+    - [abalone dataset - CSV format](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/abalone.csv)
+    - [Abalone Report - HTML](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/AbaloneReport_v1.html)
+    - [Abalone Report - DOCX](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/AbaloneReport_v1.docx)
+    - [Abalone Report - PDF](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/AbaloneReport_v1.pdf)
+    - [Abalone Report - HTML Slides, ioslides](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/Abalone_ioslides_v1.html)
+    - [Abalone Report - HTML Slides, slidy](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/Abalone_slidy_v1.html)
+    - [Abalone Report - PDF Slides, beamer](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/Abalone_beamer_slides_v1.pdf)
+    - [Abalone Report - PPT Slides](https://melindahiggins2000.github.io/HJF_GSchluck_Lecture_01122023/Abalone_PPTslides_v1.pptx)
 
 # Learn more about Rmarkdown at:
 
